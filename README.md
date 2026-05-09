@@ -5,7 +5,7 @@ After reading the stall paper i feel it can be used to improve the pinns to lear
 I got this idea after reading a paper from Omar https://omerbenhayun.github.io/stall-video/ and ive been constantly engaging with him to improve this 
 
 # Methods
-It is very simple approach ive just added Stall to the loss function in the WF PINN to test it with all its proper codes from the implementation.
+It is very simple approach ive just added Stall to the loss function in the WF PINN to test it with all its proper codes from the implementation.This idea is highly novel to this date and will be publishing it once ill properly test this
 
 # Datasets
 Ive used DeepXDE dataset for Burgers equation to test this and will improving this in future
