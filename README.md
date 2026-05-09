@@ -13,4 +13,4 @@ Ive used DeepXDE dataset for Burgers equation to test this and will improving th
 # Results
 
 <img width="2672" height="1477" alt="wf_pinn_burgers_comparison" src="https://github.com/user-attachments/assets/1e7c6ded-3b65-4a46-af36-13ac17ccebdc" />
-<img width="2684" height="1777" alt="burgers_comparison_full" src="https://github.com/user-attachments/assets/5d9b9242-f790-4850-9e51-8cba4bccf8c6" />
+
