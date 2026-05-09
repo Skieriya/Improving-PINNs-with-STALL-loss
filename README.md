@@ -1,4 +1,3 @@
-# Improving-PINNs-with-STALL-loss
 
 # Intro
 After reading the stall paper i feel it can be used to improve the pinns to learn better and have been trying multiple ways to do this now ive finally found a way to do this
